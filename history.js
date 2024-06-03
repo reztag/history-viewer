@@ -243,6 +243,7 @@ document.addEventListener('DOMContentLoaded', () => {
     };
   
     const undoDelete = (itemId) => {
+
       // Find the deleted item in historyData
       const deletedItem = historyData.find(item => item.id === itemId);
       if (deletedItem) {
