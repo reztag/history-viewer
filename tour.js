@@ -54,6 +54,10 @@ tour.addStep({
 	attachTo: { element: 'input[type="checkbox"]:first-of-type', on: 'right' },
 	buttons: [
 		{
+			text: "Back",
+			action: tour.back,
+		},
+		{
 			text: "Next",
 			action: tour.next,
 		},
@@ -69,6 +73,10 @@ tour.addStep({
 		on: "bottom",
 	},
 	buttons: [
+		{
+			text: "Back",
+			action: tour.back,
+		},
 		{
 			text: "Next",
 			action: tour.next,
@@ -86,6 +94,10 @@ tour.addStep({
 	},
 	buttons: [
 		{
+			text: "Back",
+			action: tour.back,
+		},
+		{
 			text: "Next",
 			action: tour.next,
 		},
@@ -101,6 +113,10 @@ tour.addStep({
 		on: "bottom",
 	},
 	buttons: [
+		{
+			text: "Back",
+			action: tour.back,
+		},
 		{
 			text: "Next",
 			action: tour.next,
@@ -118,6 +134,10 @@ tour.addStep({
 	},
 	buttons: [
 		{
+			text: "Back",
+			action: tour.back,
+		},
+		{
 			text: "Next",
 			action: tour.next,
 		},
@@ -130,6 +150,10 @@ tour.addStep({
 	text: 'If you accidentally delete an item, you can undo it by clicking the "Undo" button in the confirmation popup.',
 	buttons: [
 		{
+			text: "Back",
+			action: tour.back,
+		},
+		{
 			text: "Next",
 			action: tour.next,
 		},
@@ -141,6 +165,10 @@ tour.addStep({
 	title: "You're Ready!",
 	text: "You've now learned the basics of History Viewer. Enjoy exploring your browsing history!",
 	buttons: [
+		{
+			text: "Back",
+			action: tour.back,
+		},
 		{
 			text: "Finish",
 			action: tour.complete,
