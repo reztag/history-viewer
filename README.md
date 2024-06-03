@@ -20,7 +20,7 @@
 
 ## Why I made this extension?
 I never really liked my Chrome browser's history page because I require to navigate my browsing history a lot when I research into a rabbit hole my way haha. At many times the inbuilt history page failed to deliver a valid search result even. And there is NO date picker feature. Bookmarks exist but they won't save the history timestamp so that I could jump to that date and analyse my journey.
-So, I tried my best with current knowledge to make an extension which does my work, I learned a lot about Manifest and the entire extension making in the process.
+So, I tried my best with current knowledge to make an extension which does my work. I learned a lot about Manifest and the entire extension making in the process.
 
 ## Installation
 
