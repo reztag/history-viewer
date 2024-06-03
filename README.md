@@ -7,7 +7,7 @@
 - [What it does](#what-it-does)
 - [Why I made this extension?](#why-i-made-this-extension)
 - [Installation](#installation)
-- [Video](#video)
+- [Video Overview](#video-overview)
 - [Contributing](#contributing)
   
 ## What it does
@@ -46,9 +46,9 @@ To install the History Viewer extension locally, follow these steps:
 4. **Usage**:
 Once the extension is loaded, you can access it by clicking on the History Viewer icon in the extension toolbar.
 
-## Video
-[youtube video here]
-The video here showcases the extension's features and how ShepherdJS is used.
+## Video Overview
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8vO4EtdjC8I/0.jpg)](https://www.youtube.com/watch?v=8vO4EtdjC8I)
+<br> The video here showcases the extension's features and how ShepherdJS is used.
 
 ## Contributing
 Contributions are aboslutely welcomed 😄! I am not a pro and this was a fun thing to know many things, hence my extension is not perfect.
