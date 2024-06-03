@@ -29,8 +29,7 @@ document.addEventListener('DOMContentLoaded', () => {
   
       data.forEach(item => {
         const visitDate = new Date(item.lastVisitTime);
-        const visitDateString = visitDate.toLocaleDateString();
-  
+        const visitDateString = new Intl.DateTimeFormat('en-GB', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' }).format(visitDate);  
         if (visitDateString !== currentDate) {
           currentDate = visitDateString;
           const dateDiv = document.createElement('div');
